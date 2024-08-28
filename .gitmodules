@@ -1,0 +1,9 @@
+[submodule "task5/front-end/softy-pinko-front-end"]
+	path = task5/front-end/softy-pinko-front-end
+	url = https://github.com/atlas-school/softy-pinko-front-end.git
+[submodule "task4/front-end/softy-pinko-front-end"]
+	path = task4/front-end/softy-pinko-front-end
+	url = https://github.com/atlas-school/softy-pinko-front-end.git
+[submodule "task3/front-end/softy-pinko-front-end"]
+	path = task3/front-end/softy-pinko-front-end
+	url = https://github.com/atlas-school/softy-pinko-front-end.git
